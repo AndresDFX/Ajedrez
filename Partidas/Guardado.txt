@@ -1,0 +1,15 @@
+partida: 
+torrenegro 0 alfilnegro reinanegro reynegro 0 reinablanco torrenegro 
+peonnegro peonnegro peonnegro peonnegro 0 0 peonnegro peonnegro 
+0 0 0 0 0 0 0 0 
+0 0 alfilnegro 0 0 0 0 0 
+0 0 peonblanco caballonegro 0 0 0 0 
+0 0 0 0 0 0 0 0 
+peonblanco peonblanco 0 peonblanco 0 0 0 peonblanco 
+torreblanco caballoblanco alfilblanco 0 reyblanco alfilblanco caballoblanco reinanegro 
+turno: 
+false
+pos-ini: 
+0
+tipo-estado: 
+0
